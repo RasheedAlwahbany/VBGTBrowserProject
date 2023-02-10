@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GT Browser", "GT Browser\GT Browser.vbproj", "{4CE09676-44E9-4EE6-A7F1-C0621866FC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE09676-44E9-4EE6-A7F1-C0621866FC76}.Debug|x86.ActiveCfg = Debug|x86
+		{4CE09676-44E9-4EE6-A7F1-C0621866FC76}.Debug|x86.Build.0 = Debug|x86
+		{4CE09676-44E9-4EE6-A7F1-C0621866FC76}.Release|x86.ActiveCfg = Release|x86
+		{4CE09676-44E9-4EE6-A7F1-C0621866FC76}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
